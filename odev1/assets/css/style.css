@@ -1,0 +1,6 @@
+/* style.css */
+.site-image {
+    max-width: 100%; /* Genişliği container içinde sığacak kadar maksimum yapar */
+    height: auto;    /* Otomatik yükseklik, oranları korur */
+    /* Diğer stil ayarlarınızı buraya ekleyin */
+}
